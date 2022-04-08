@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.logintab
+{
+    background-color:darksalmon;
+    border: 2px solid white ;
+    color:white;
+    text-align: center;
+    height:350px;
+    width:350px;
+    margin:300px;
+    padding: 10px;
+    margin-top: 100px;
+    margin-right: 50px;
+}
+
+
+.headtag{
+    text-align: center;
+    color:bisque;
+    padding: 100px;
+}
+.buttontag{
+    text-align: center;
+   font-size: x-large;
+    margin: 350px;
+    height:100px;
+    width:200px;
+    padding:10px;
+    margin-top: 250px;
+   margin-right: 300px;
+   
+}
+.checkboxtag{
+    font-size:15cm;
+    font-style: italic;
+    margin:20px;
+    color:bisque;
+    padding: 10px;
+    margin-top: 10px;
+}
